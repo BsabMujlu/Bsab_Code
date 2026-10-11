@@ -11,6 +11,6 @@ Please note that the repository's contents may change over time. Some features m
 
 
 # So How Can I Use it?
-To access the stable release or web version of Bsab Code, visit Bsab Code Web. The website allows users to explore and use Bsab Code directly through their browser, without needing to install a separate desktop application.
+To access the stable release or web version of Bsab Code, visit [[Bsab Code Web](https://bsabstudious.wixsite.com/g-g-b/bsab-code). The website allows users to explore and use Bsab Code directly through their browser, without needing to install a separate desktop application.
 
-For previous releases, including Bsab Code Via, Bsab Code Alpha, and Bsab Code Beta, visit Bsab Docs. The documentation page also provides additional information about Bsab and the Bsab Code project, including details about earlier releases and related developments.
+For previous releases, including Bsab Code Via, Bsab Code Alpha, and Bsab Code Beta, visit [Bsab Docs](https://bsabstudious.wixsite.com/bsab-destek/bsab-docs). The documentation page also provides additional information about Bsab and the Bsab Code project, including details about earlier releases and related developments.
