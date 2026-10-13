@@ -1,6 +1,10 @@
 # Bsab Code... What is the Bsab Code
 Bsab Code is a Turkish-friendly coding terminal designed to make coding simpler and more accessible. With an intuitive interface, practical tools, and a beginner-friendly approach, it aims to help users explore, write, and manage code with ease.
 
+## For New Changes
+To explore the latest changes, you can read the [`Features.md`](Features.md) file or scroll to the bottom of this page.
+
+
 # ❗WARNİNG ❗
 The code you see here belongs to the Bsab Code application. This GitHub repository serves as the central hub for the application's source code and development resources.
 
