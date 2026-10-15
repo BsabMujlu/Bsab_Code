@@ -181,7 +181,9 @@ As an Alpha release, Bsab Code v2.0 is part of an ongoing development process. F
 **"Bsab Done İt Again!"**
 
 **Bsab Studious Ekibi**
-Mustafa Tuğrul Akpınar
+
+  Mustafa Tuğrul Akpınar
+
 └── Founder, CEO & Community Manager of Bsab Studious
 
 
