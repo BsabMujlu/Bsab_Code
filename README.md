@@ -140,6 +140,7 @@ Mustafa Tuğrul Akpınar
 Bsab Code is developed and maintained by the Bsab Studious team. This section recognizes the individuals responsible for the project's development, direction, and ongoing improvements. As the project evolves, additional contributors and developers may be added to this section.
 
 **Mustafa Tuğrul Akpınar**
+
 └── Founder, CEO & Community Manager of Bsab Studious
 
 
